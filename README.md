@@ -1,0 +1,1 @@
+In this case study, I have performed data analysis for a fictional bike-share company, Cylisctic, to help them attract more riders. Along the way, as a data analyst, I followed the typical steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act, as documented in this portfolio.
